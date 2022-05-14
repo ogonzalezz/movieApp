@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.title{
+    text-align: center;
+    color: black;
+}
+
+nav {
+    background-color: #fdf5e6;
+}
